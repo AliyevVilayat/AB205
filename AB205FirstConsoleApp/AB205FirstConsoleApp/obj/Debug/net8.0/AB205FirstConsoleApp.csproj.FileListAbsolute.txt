@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\bin\Debug\net8.0\AB205FirstConsoleApp.exe
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\bin\Debug\net8.0\AB205FirstConsoleApp.deps.json
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\bin\Debug\net8.0\AB205FirstConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\bin\Debug\net8.0\AB205FirstConsoleApp.dll
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\bin\Debug\net8.0\AB205FirstConsoleApp.pdb
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.dll
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\refint\AB205FirstConsoleApp.dll
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.pdb
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\AB205FirstConsoleApp.genruntimeconfig.cache
+C:\Users\User\source\repos\AB205FirstConsoleApp\AB205FirstConsoleApp\obj\Debug\net8.0\ref\AB205FirstConsoleApp.dll
