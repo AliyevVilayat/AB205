@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ArrayTask\ArrayTask\bin\Debug\net8.0\ArrayTask.exe
+C:\Users\User\source\repos\ArrayTask\ArrayTask\bin\Debug\net8.0\ArrayTask.deps.json
+C:\Users\User\source\repos\ArrayTask\ArrayTask\bin\Debug\net8.0\ArrayTask.runtimeconfig.json
+C:\Users\User\source\repos\ArrayTask\ArrayTask\bin\Debug\net8.0\ArrayTask.dll
+C:\Users\User\source\repos\ArrayTask\ArrayTask\bin\Debug\net8.0\ArrayTask.pdb
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.AssemblyInfo.cs
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.dll
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\refint\ArrayTask.dll
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.pdb
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ArrayTask.genruntimeconfig.cache
+C:\Users\User\source\repos\ArrayTask\ArrayTask\obj\Debug\net8.0\ref\ArrayTask.dll
