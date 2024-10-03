@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\bin\Debug\net8.0\AlgorithimTask.exe
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\bin\Debug\net8.0\AlgorithimTask.deps.json
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\bin\Debug\net8.0\AlgorithimTask.runtimeconfig.json
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\bin\Debug\net8.0\AlgorithimTask.dll
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\bin\Debug\net8.0\AlgorithimTask.pdb
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.dll
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\refint\AlgorithimTask.dll
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.pdb
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\AlgorithimTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AlgorithimTask\AlgorithimTask\obj\Debug\net8.0\ref\AlgorithimTask.dll
