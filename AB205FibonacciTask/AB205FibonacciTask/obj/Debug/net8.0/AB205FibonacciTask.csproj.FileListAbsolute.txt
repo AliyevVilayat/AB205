@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.AssemblyInfo.cs
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\bin\Debug\net8.0\AB205FibonacciTask.exe
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\bin\Debug\net8.0\AB205FibonacciTask.deps.json
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\bin\Debug\net8.0\AB205FibonacciTask.runtimeconfig.json
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\bin\Debug\net8.0\AB205FibonacciTask.dll
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\bin\Debug\net8.0\AB205FibonacciTask.pdb
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.dll
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\refint\AB205FibonacciTask.dll
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.pdb
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\AB205FibonacciTask.genruntimeconfig.cache
+C:\Users\User\source\repos\AB205FibonacciTask\AB205FibonacciTask\obj\Debug\net8.0\ref\AB205FibonacciTask.dll
