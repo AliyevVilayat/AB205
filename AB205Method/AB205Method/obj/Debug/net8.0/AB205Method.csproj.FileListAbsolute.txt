@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB205Method\AB205Method\bin\Debug\net8.0\AB205Method.exe
+C:\Users\User\source\repos\AB205Method\AB205Method\bin\Debug\net8.0\AB205Method.deps.json
+C:\Users\User\source\repos\AB205Method\AB205Method\bin\Debug\net8.0\AB205Method.runtimeconfig.json
+C:\Users\User\source\repos\AB205Method\AB205Method\bin\Debug\net8.0\AB205Method.dll
+C:\Users\User\source\repos\AB205Method\AB205Method\bin\Debug\net8.0\AB205Method.pdb
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.AssemblyInfo.cs
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.dll
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\refint\AB205Method.dll
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.pdb
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\AB205Method.genruntimeconfig.cache
+C:\Users\User\source\repos\AB205Method\AB205Method\obj\Debug\net8.0\ref\AB205Method.dll
