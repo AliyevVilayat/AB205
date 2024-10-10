@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\bin\Debug\net8.0\FlowchartTask.exe
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\bin\Debug\net8.0\FlowchartTask.deps.json
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\bin\Debug\net8.0\FlowchartTask.runtimeconfig.json
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\bin\Debug\net8.0\FlowchartTask.dll
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\bin\Debug\net8.0\FlowchartTask.pdb
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.AssemblyInfo.cs
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.dll
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\refint\FlowchartTask.dll
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.pdb
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\FlowchartTask.genruntimeconfig.cache
+C:\Users\User\source\repos\FlowchartTask\FlowchartTask\obj\Debug\net8.0\ref\FlowchartTask.dll

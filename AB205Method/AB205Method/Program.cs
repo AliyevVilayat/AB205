@@ -69,7 +69,7 @@ public class Program
         return -1;
     }
 
-    public static int CustomCharAt(string text, char symb)
+    public static int CustomIndexOf(string text, char symb)
     {
         //Elə bir method yazın ki string tipindən text və char tipindən bir dəyişən qəbul etsin. Method göndərilən dəyəri string daxilində axtarsın əgər rast gələrsə index-i, rast gəlinmədiyi təqdirdə geriyə -1 qaytarsın.
 
