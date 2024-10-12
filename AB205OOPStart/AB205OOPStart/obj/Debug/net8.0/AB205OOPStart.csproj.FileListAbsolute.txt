@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.AssemblyInfo.cs
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\bin\Debug\net8.0\AB205OOPStart.exe
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\bin\Debug\net8.0\AB205OOPStart.deps.json
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\bin\Debug\net8.0\AB205OOPStart.runtimeconfig.json
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\bin\Debug\net8.0\AB205OOPStart.dll
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\bin\Debug\net8.0\AB205OOPStart.pdb
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.dll
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\refint\AB205OOPStart.dll
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.pdb
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\AB205OOPStart.genruntimeconfig.cache
+C:\Users\User\source\repos\AB205OOPStart\AB205OOPStart\obj\Debug\net8.0\ref\AB205OOPStart.dll
