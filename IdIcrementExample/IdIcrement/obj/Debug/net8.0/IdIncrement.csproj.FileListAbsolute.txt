@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\IdIcrement\IdIcrement\bin\Debug\net8.0\IdIncrement.exe
+C:\Users\User\source\repos\IdIcrement\IdIcrement\bin\Debug\net8.0\IdIncrement.deps.json
+C:\Users\User\source\repos\IdIcrement\IdIcrement\bin\Debug\net8.0\IdIncrement.runtimeconfig.json
+C:\Users\User\source\repos\IdIcrement\IdIcrement\bin\Debug\net8.0\IdIncrement.dll
+C:\Users\User\source\repos\IdIcrement\IdIcrement\bin\Debug\net8.0\IdIncrement.pdb
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.AssemblyInfo.cs
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.dll
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\refint\IdIncrement.dll
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.pdb
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\IdIncrement.genruntimeconfig.cache
+C:\Users\User\source\repos\IdIcrement\IdIcrement\obj\Debug\net8.0\ref\IdIncrement.dll
