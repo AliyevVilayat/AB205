@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\contexts\\academymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\contexts\\academymanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\migrations\\20241119142836_studenttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\migrations\\20241119142836_studenttableadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\migrations\\20241119142155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\migrations\\20241119142155_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|c:\\users\\user\\source\\repos\\ab205academymanagementefproject\\ab205academymanagementefproject\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1119E406-3035-4CEF-9A34-391A2FAA87B0}|AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject.csproj|solutionrelative:ab205academymanagementefproject\\helpers\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241119142836_StudentTableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Migrations\\20241119142836_StudentTableAdded.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Migrations\\20241119142836_StudentTableAdded.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Migrations\\20241119142836_StudentTableAdded.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Migrations\\20241119142836_StudentTableAdded.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:28:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241119142155_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Migrations\\20241119142155_Initial.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Migrations\\20241119142155_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Migrations\\20241119142155_Initial.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Migrations\\20241119142155_Initial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:21:55.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Helpers\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:16:56.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcademyManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Contexts\\AcademyManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:14:39.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:12:03.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Models\\Student.cs",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:09:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Program.cs",
+              "RelativeDocumentMoniker": "AB205AcademyManagementEFProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AB205AcademyManagementEFProject\\AB205AcademyManagementEFProject\\Program.cs*",
+              "RelativeToolTip": "AB205AcademyManagementEFProject\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T14:09:16.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
