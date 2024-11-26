@@ -1,0 +1,119 @@
+/*----------------------------------------*/
+/*  24. Cart
+/*----------------------------------------*/
+.table-content {
+    table {
+        td {
+            &.product-subtotal {
+                font-size: 16px;
+                font-weight: 700;
+            }
+            &.quantity {
+                .cart-plus-minus {
+                    margin: 0 auto;
+                }
+            }
+        }
+    }
+}
+
+.cart-area {
+    .table-content {
+        table {
+            td {
+                &:nth-child(3) {
+                    @include breakpoint(max-sm-device) {
+                        padding: 45.1px 10px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.coupon-all {
+    margin-top: 30px;
+    .coupon {
+        float: left;
+        input {
+            background-color: transparent;
+            border: 1px solid $border-color;
+            font-size: 13px;
+            border-radius: 0;
+            height: 42px;
+            width: 120px;
+            padding: 0 10px;
+        }
+    }
+    .coupon,
+    .coupon2 {
+        input {
+            &.button {
+                background-color: #505050;
+                border: 0 none;
+                border-radius: 2px;
+                color: $white;
+                display: inline-block;
+                font-size: 13px;
+                font-weight: 700;
+                cursor: pointer;
+                height: 42px;
+                letter-spacing: 1px;
+                line-height: 42px;
+                padding: 0 25px;
+                text-transform: uppercase;
+                transition: $baseTransition;
+                width: inherit;
+                &:hover {
+                    background-color: $pronia-primary;
+                }
+            }
+        }
+        &.coupon2 {
+            float: right;
+            @include breakpoint(max-xxs-device) {
+                margin-top: 15px;
+            }
+        }
+    }
+}
+
+.cart-page-total {
+    padding-top: 30px;
+    > h2 {
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 20px;
+        text-transform: capitalize;
+    }
+    > ul {
+        border: 1px solid $border-color;
+        li {
+            list-style: none;
+            font-size: 15px;
+            padding: 10px 30px;
+            border-bottom: 1px solid $border-color;
+            font-weight: 700;
+            &:last-child {
+                border-bottom: 0;
+            }
+            span {
+                float: right;
+            }
+        }
+    }
+    a {
+        background-color: #505050;
+        border: 0;
+        color: $white;
+        display: inline-block;
+        margin-top: 30px;
+        padding: 10px 20px;
+        text-transform: capitalize;
+        transition: $baseTransition;
+        &:hover {
+            background-color: $pronia-primary;
+            color: $white;
+        }
+    }
+}

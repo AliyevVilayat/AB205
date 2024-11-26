@@ -1,0 +1,50 @@
+/*----------------------------------------*/
+/*  21. Breadcrumb
+/*----------------------------------------*/
+.breadcrumb {
+    &-height {
+        height: 370px;
+    }
+    &-heading {
+        text-transform: uppercase;
+        font-size: 36px;
+        @include breakpoint(max-xxs-device) {
+            font-size: 24px;
+        }
+    }
+    &-item {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        ul {
+            li {
+                display: inline-block;
+                line-height: 30px;
+                font-size: 14px;
+                &:not(:last-child) {
+                    a {
+                        position: relative;
+                        padding-right: 25px;
+                        margin-right: 10px;
+                        &:before {
+                            background-color: $pronia-primary;
+                            position: absolute;
+                            content: '';
+                            width: 10px;
+                            height: 10px;
+                            top: 50%;
+                            right: 0;
+                            transform: translateY(-50%);
+                        }
+                    }
+                }
+                i {
+                    font-size: 16px;
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+}

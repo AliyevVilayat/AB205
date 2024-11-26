@@ -1,0 +1,126 @@
+/*----------------------------------------*/
+/*  18. Contact
+/*----------------------------------------*/
+.contact {
+    &-map {
+        display: flex;
+        &-size {
+            min-height: 500px;
+            width: 100%;
+        }
+    }
+    &-wrap {
+        box-shadow: 0px 0px 22px 0px rgba(0, 0, 0, 0.2);
+        display: flex;
+        @include breakpoint(max-sm-device) {
+            flex-direction: column;
+        }
+    }
+    &-info {
+        padding: 35px 40px;
+        width: 370px;
+        @include breakpoint(max-sm-device) {
+            width: 100%;
+        }
+        @include breakpoint(max-xxs-device) {
+            padding: 35px 30px;
+        }
+        &[data-bg-image]:not(.bg-pattern) {
+            background-position: bottom;
+        }
+    }
+    &-title {
+        margin-bottom: 15px;
+        font-size: 30px;
+    }
+    &-desc {
+        margin-bottom: 35px;
+        font-size: 14px;
+        line-height: 21px;
+    }
+    &-list {
+        li {
+            display: flex;
+            align-items: center;
+            &:not(:last-child) {
+                margin-bottom: 20px;
+            }
+            i {
+                background-color: rgb(255, 255, 255);
+                color: $pronia-primary;
+                border-radius: 100%;
+                font-size: 25px;
+                display: block;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                margin-right: 20px;
+            }
+            a {
+                color: $white;
+                font-size: 18px;
+            }
+        }
+    }
+    &-form {
+        padding: 50px 40px;
+        width: calc(100% - 370px);
+        @include breakpoint(max-sm-device) {
+            width: 100%;
+        }
+        .group-input {
+            display: flex;
+            @include breakpoint(max-lg-device) {
+                flex-direction: column;
+            }
+        }
+        .form-field {
+            width: 100%;
+        }
+        .input-field,
+        .textarea-field {
+            border: 0;
+            border-bottom: 1px solid $border-color;
+            font-weight: 400;
+            color: #8d8d8c;
+            height: 45px;
+            line-height: 45px;
+            width: 100%;
+            font-style: italic;
+        }
+        .textarea-field {
+            height: 145px;
+        }
+        .form-messege {
+            font-size: 14px;
+            &.success {
+                color: $pronia-secondary;
+            }
+            &.error {
+                color: red;
+            }
+        }
+    }
+    &-button-wrap {
+        display: flex;
+        justify-content: flex-end;
+        .btn {
+            &-custom-size {
+                border-radius: 10px;
+            }
+        }
+    }
+}
+
+/* ---Form Message--- */
+.form{
+    &-message{
+        &.success{
+            color: $pronia-primary;
+        }
+        &.error{
+            color: red;
+        }
+    }
+}

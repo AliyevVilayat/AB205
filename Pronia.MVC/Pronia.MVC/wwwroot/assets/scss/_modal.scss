@@ -1,0 +1,45 @@
+/*----------------------------------------*/
+/*  20. Modal
+/*----------------------------------------*/
+.quick-view-modal {
+    .modal {
+        &-dialog {
+            max-width: 100%;
+            width: 1125px;
+            @include breakpoint(max-lg-device) {
+                width: calc(100% - 30px);
+                margin: 30px auto;
+            }
+        }
+        &-content {
+            border: 0;
+        }
+        &-header {
+            padding: 1rem 2rem;
+        }
+        &-body {
+            padding: 2rem;
+        }
+    }
+}
+
+.modal {
+    &-img {
+        height: 100%;
+    }
+    &-slider {
+        border: 1px solid $border-color;
+        height: 100%;
+    }
+    &-thumbs {
+        .swiper {
+            &-slide {
+                border: 1px solid $border-color;
+                transition: $baseTransition;
+                &:hover {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}

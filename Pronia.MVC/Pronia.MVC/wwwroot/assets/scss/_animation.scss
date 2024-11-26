@@ -1,0 +1,170 @@
+/*----------------------------------------*/
+/*  02. Animation
+/*----------------------------------------*/
+.swiper-slide {
+    .slide-inner {
+        .slide-content {
+            opacity: 0;
+        }
+    }
+    &.swiper-slide-active {
+        .slide-inner {
+            .slide-content {
+                opacity: 1;
+            }
+        }
+    }
+}
+/* ---Slider Animation--- */
+.animation-style-01 {
+    &.swiper-slide-active {
+        .slide-content {
+            .offer {
+                animation-name: fadeInUp;
+                animation-delay: 0.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+                @include breakpoint(max-md-device) {
+                    animation-name: fadeInUp;
+                    animation-delay: 1s;
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                }
+            }
+            .title {
+                animation-name: fadeInUp;
+                animation-delay: 1s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+                @include breakpoint(max-md-device) {
+                    animation-name: fadeInUp;
+                    animation-delay: 1.5s;
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                }
+            }
+            .short-desc {
+                animation-name: fadeInUp;
+                animation-delay: 1.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+                @include breakpoint(max-md-device) {
+                    animation-name: fadeInUp;
+                    animation-delay: 2s;
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                }
+            }
+            .btn-wrap {
+                animation-name: fadeInUp;
+                animation-delay: 2s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+                @include breakpoint(max-md-device) {
+                    animation-name: fadeInUp;
+                    animation-delay: 2.5s;
+                    animation-duration: 1s;
+                    animation-fill-mode: both;
+                }
+            }
+        }
+        .inner-img {
+            animation-name: fadeInUp;
+            animation-delay: 2.5s;
+            animation-duration: 1s;
+            animation-fill-mode: both;
+            @include breakpoint(max-md-device) {
+                animation-name: fadeInUp;
+                animation-delay: 0.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+        }
+    }
+}
+.animation-style-02 {
+    &.swiper-slide-active {
+        .slide-content {
+            .title {
+                animation-name: fadeInUp;
+                animation-delay: 0.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+            .short-desc {
+                animation-name: fadeInUp;
+                animation-delay: 1s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+            .btn-wrap {
+                animation-name: fadeInUp;
+                animation-delay: 1.5s;
+                animation-duration: 1s;
+                animation-fill-mode: both;
+            }
+        }
+    }
+}
+
+/* ---Wave Button--- */
+@keyframes wave-button {
+    0% {
+        opacity: 1;
+        transform: scale(0.3);
+    }
+    50% {
+        opacity: 0.5;
+        transform: scale(0.6);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1);
+    }
+}
+
+.wave {
+    &-btn {
+        margin: auto;
+        display: block;
+        position: relative;
+        width: 250px;
+        height: 250px;
+        & > .icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            i {
+                display: block;
+                width: 100px;
+                height: 100px;
+                line-height: 100px;
+                text-align: center;
+                background: $white;
+                border-radius: 50%;
+                color: $pronia-primary;
+                font-size: 55px;
+            }
+        }
+        span {
+            background: $pronia-primary;
+            position: absolute;
+            border-radius: 50%;
+            width: 250px;
+            height: 250px;
+            &:nth-child(1) {
+                background: $pronia-primary;
+                animation: wave-button 2s infinite 0.1s linear backwards;
+            }
+            &:nth-child(2) {
+                background: $pronia-primary;
+                animation: wave-button 3s infinite 0.5s linear backwards;
+            }
+            &:nth-child(3) {
+                background: $pronia-primary;
+                animation: wave-button 4s infinite 1s linear backwards;
+            }
+        }
+    }
+}

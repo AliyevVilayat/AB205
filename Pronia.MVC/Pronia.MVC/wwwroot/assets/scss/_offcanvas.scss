@@ -1,0 +1,365 @@
+/*----------------------------------------*/
+/*  06. Offcanvas
+/*----------------------------------------*/
+.mobile-menu_wrapper,
+.offcanvas-minicart_wrapper,
+.offcanvas-search_wrapper {
+    .offcanvas-body {
+        background-color: #333333;
+        position: fixed;
+        top: 0;
+        left: -350px;
+        width: 350px;
+        z-index: 9999;
+        visibility: hidden;
+        opacity: 0;
+        overflow: visible;
+        overflow-x: hidden;
+        height: 100%;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        transition: all 500ms ease;
+        padding: 0;
+        @include breakpoint(max-xxs-device) {
+            width: 100%;
+        }
+        .inner-body {
+            padding: 50px 0;
+            .offcanvas-top {
+                display: flex;
+                justify-content: flex-end;
+                padding: 0 25px 30px;
+                height: auto;
+                border-bottom: 0;
+                transform: none;
+                .button-close {
+                    font-size: 24px;
+                    color: $white;
+                }
+            }
+            .offcanvas-menu_area {
+                .offcanvas-navigation {
+                    .mobile-menu {
+                        & > li {
+                            height: 100%;
+                            & > a {
+                                span {
+                                    position: relative;
+                                    display: flex;
+                                    justify-content: space-between;
+                                    align-items: center;
+                                }
+                            }
+                        }
+                        li {
+                            position: relative;
+                            &:not(:last-child) {
+                                padding-bottom: 25px;
+                            }
+                            & > .menu-expand {
+                                position: absolute;
+                                right: 0;
+                                top: 2px;
+                                width: 50px;
+                                height: 100%;
+                                line-height: 40px;
+                                cursor: pointer;
+                                text-align: center;
+                                margin-right: 4px;
+                                transition: $baseTransition;
+                                font-size: 20px;
+                            }
+                            a {
+                                color: $white;
+                                font-size: 14px;
+                                text-transform: uppercase;
+                                display: block;
+                                padding: 0 30px;
+                                i {
+                                    font-size: 24px;
+                                }
+                            }
+                            .sub-menu {
+                                background-color: rgba(255, 255, 255, 0.05);
+                                overflow-y: auto;
+                                padding: 25px 0;
+                                margin: 20px 0 10px;
+                                li {
+                                    a {
+                                        text-transform: uppercase;
+                                        font-size: 11px;
+                                        color: $white;
+                                        span {
+                                            display: flex;
+                                            justify-content: space-between;
+                                            align-items: center;
+                                        }
+                                    }
+                                    &.menu-open {
+                                        > a {
+                                            color: $pronia-primary;
+                                            > span {
+                                                > i {
+                                                    &:before {
+                                                        content: '\e682';
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            &.menu-open {
+                                > a {
+                                    color: $pronia-primary;
+                                    > span {
+                                        > i {
+                                            &:before {
+                                                content: '\e682';
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            .header-contact {
+                padding-left: 30px;
+                padding-right: 30px;
+                a {
+                    color: $white;
+                }
+            }
+        }
+    }
+    &.open {
+        .offcanvas-body {
+            visibility: visible;
+            left: 0;
+            opacity: 1;
+            z-index: 999;
+        }
+    }
+}
+
+.offcanvas-minicart_wrapper {
+    .offcanvas-body {
+        box-shadow: 0px 0 15px rgba(0, 0, 0, 0.2);
+        background-color: $white;
+        padding: 55px 60px 0;
+        width: 450px;
+        left: auto;
+        right: -660px;
+        justify-content: flex-start;
+        @include breakpoint(max-xxs-device) {
+            padding: 55px 20px 0;
+            width: 100%;
+        }
+        .minicart-content {
+            .minicart-heading {
+                display: flex;
+                justify-content: space-between;
+                padding-bottom: 25px;
+                .button-close {
+                    font-size: 32px;
+                    line-height: 1;
+                    color: #383838;
+                    &:hover {
+                        color: $pronia-primary;
+                    }
+                    i {
+                        &:before {
+                            font-weight: 600;
+                        }
+                    }
+                }
+            }
+            .minicart-list {
+                max-height: 595px;
+                position: relative;
+                overflow: auto;
+                li {
+                    &:not(:last-child) {
+                        border-bottom: 1px solid $border-color;
+                        padding-bottom: 30px;
+                        margin-bottom: 30px;
+                    }
+                    &.minicart-product {
+                        display: flex;
+                        a {
+                            &.product-item_remove {
+                                i {
+                                    position: absolute;
+                                    font-size: 20px;
+                                    top: auto;
+                                    right: 15px;
+                                }
+                            }
+                        }
+                        .product-item_img {
+                            transition: $baseTransition;
+                            flex-basis: 70px;
+                            max-width: 70px;
+                        }
+                        .product-item_content {
+                            flex-basis: calc(100% - 70px);
+                            max-width: calc(100% - 70px);
+                            padding-left: 20px;
+                            padding-right: 10px;
+                            a {
+                                &.product-item_title {
+                                    line-height: 1.4;
+                                    font-size: 16px;
+                                    width: 90%;
+                                    display: block;
+                                }
+                            }
+                            .product-item_quantity {
+                                display: block;
+                                padding-top: 10px;
+                                font-size: 13px;
+                                line-height: 24.7px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .minicart-item_total {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 25px 0 30px;
+        }
+        .group-btn_wrap {
+            padding-bottom: 60px;
+            .btn {
+                &:hover {
+                    background-color: $pronia-primary;
+                    border-color: $pronia-primary;
+                    color: $white;
+                }
+            }
+        }
+    }
+    &.open {
+        .offcanvas-body {
+            left: auto;
+            right: 0;
+        }
+    }
+}
+
+/* ---Offcanvas Search Area--- */
+.modal {
+    &-bg {
+        &-dark {
+            background-color: rgba(0, 0, 0, 0.6);
+            .btn-close {
+                background-image: url('../images/offcanvas/close-white.svg');
+            }
+        }
+    }
+    &-header {
+        border-bottom: 0;
+        .btn-close {
+            opacity: 1;
+            &:focus {
+                outline: none;
+                box-shadow: none;
+            }
+            &:hover {
+                transform: rotate(180deg);
+            }
+        }
+    }
+    &-search {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        span {
+            &.searchbox-info {
+                margin-bottom: 30px;
+                font-size: 20px;
+                display: block;
+                color: $white;
+                letter-spacing: 0.5px;
+                text-align: center;
+            }
+        }
+        .hm-searchbox {
+            position: relative;
+            width: 800px;
+            display: flex;
+            justify-content: center;
+            @include breakpoint(max-md-device) {
+                width: calc(100% - 25px);
+            }
+            input {
+                background-color: transparent;
+                border: 0;
+                border-bottom: 1px solid $white;
+                color: $white;
+                height: 100px;
+                line-height: 100px;
+                width: 100%;
+                text-align: center;
+                font-size: 30px;
+                padding-right: 55px;
+                font-weight: 300;
+                &::placeholder {
+                    color: $white;
+                }
+            }
+            .search-btn {
+                position: absolute;
+                font-size: 30px;
+                top: 50%;
+                transform: translateY(-50%);
+                right: 0;
+                border: 0;
+                background: transparent;
+                color: $white;
+                padding: 0;
+                i {
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+}
+
+/* ---Offcanvas User Info--- */
+.offcanvas {
+    &-user {
+        &-info {
+            text-align: center;
+            padding-bottom: 25px;
+            .dropdown {
+                &-wrap {
+                    flex-wrap: wrap;
+                    justify-content: flex-start;
+                    padding-left: 30px;
+                    padding-right: 30px;
+                    > li {
+                        > a {
+                            color: $white;
+                            i {
+                                vertical-align: middle;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-contact {
+        padding-bottom: 10px;
+    }
+}

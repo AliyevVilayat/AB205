@@ -1,0 +1,131 @@
+/*----------------------------------------*/
+/*  15. About
+/*----------------------------------------*/
+.about {
+    &-title {
+        font-size: 60px;
+        line-height: 57px;
+        margin-bottom: 90px;
+        span {
+            color: $pronia-primary;
+            position: relative;
+            &:before {
+                content: url('../images/about/icon/1.png');
+                position: absolute;
+                bottom: -40px;
+                right: 0;
+            }
+        }
+    }
+    &-desc {
+        font-size: 18px;
+        line-height: 31px;
+        margin-bottom: 30px;
+    }
+}
+
+/* ---Team--- */
+.team {
+    &-item {
+        @include breakpoint(max-md-device) {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        &:hover {
+            .team {
+                &-img {
+                    .inner-content {
+                        opacity: 1;
+                        visibility: visible;
+                    }
+                }
+                &-content {
+                    opacity: 0;
+                }
+            }
+        }
+    }
+    &-img {
+        background-color: $pronia-primary;
+        @include breakpoint(max-md-device) {
+            background-color: transparent;
+        }
+        border-radius: 100%;
+        position: relative;
+        img {
+            @include breakpoint(min-lg-device) {
+                width: 100%;
+            }
+        }
+        .inner-content {
+            border-left: 1px solid $border-color;
+            border-right: 1px solid $border-color;
+            border-bottom: 1px solid $border-color;
+            background-color: $white;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 135px;
+            text-align: center;
+            padding-top: 25px;
+            border-end-end-radius: 125px;
+            border-end-start-radius: 125px;
+            opacity: 0;
+            visibility: hidden;
+            transition: $baseTransition;
+            @include breakpoint(max-md-device) {
+                width: 270px;
+            }
+            @include breakpoint(max-sm-device) {
+                width: 100%;
+            }
+            @include breakpoint(max-xs-device) {
+                width: 270px;
+            }
+            .occupation {
+                color: #696565;
+                font-size: 14px;
+            }
+            .social-link {
+                display: flex;
+                justify-content: center;
+                padding-top: 30px;
+                z-index: 1;
+                ul {
+                    li {
+                        &:not(:last-child) {
+                            padding-right: 10px;
+                        }
+                        &:nth-child(1),
+                        &:nth-child(3) {
+                            transform: translateY(-10px);
+                        }
+                        a {
+                            background-color: $white;
+                            &:hover {
+                                background-color: $pronia-primary;
+                                border-color: $pronia-primary;
+                                color: $white;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-content {
+        transition: $baseTransition;
+        text-align: center;
+        padding-top: 25px;
+        opacity: 1;
+    }
+    &-member {
+        &-name {
+            color: #363636;
+            font-size: 18px;
+            line-height: 24px;
+        }
+    }
+}

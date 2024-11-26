@@ -1,0 +1,137 @@
+/*----------------------------------------*/
+/*  22. My Account
+/*----------------------------------------*/
+.myaccount {
+    &-tab-trigger {
+        display: block;
+        li {
+            display: block;
+            &:first-child {
+                margin-top: -1px;
+            }
+            a {
+                border: 1px solid #444444;
+                display: block;
+                background: #2c2c2c;
+                color: $white;
+                text-transform: uppercase;
+                font-weight: 600;
+                padding: 10px 20px;
+                &.active {
+                    background: $pronia-primary;
+                    border-color: $pronia-primary;
+                    color: $white;
+                    &:hover {
+                        color: $white;
+                    }
+                }
+                &:hover {
+                    color: $pronia-primary;
+                }
+            }
+        }
+    }
+    &-tab-content {
+        border: 1px solid $border-color;
+        padding: 30px;
+        transition: $baseTransition;
+    }
+    &-dashboard {
+        p {
+            margin-bottom: 20px;
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    &-orders {
+        .table {
+            margin-bottom: 0;
+            .account-order-id {
+                &:hover {
+                    color: $pronia-primary;
+                }
+            }
+            &.table-hover {
+                tbody {
+                    tr {
+                        &:hover {
+                            --bs-table-accent-bg: rgba(0, 0, 0, 0.02);
+                            color: var(--bs-table-hover-color);
+                        }
+                    }
+                }
+            }
+            td,
+            th {
+                vertical-align: middle;
+                text-align: center;
+            }
+        }
+        .small-title {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+/* ---My Account Form Style--- */
+.myaccount-form,
+.myaccount-form-boxed {
+    padding: 30px;
+    border-radius: 0;
+    border: 1px solid $border-color;
+    @media (max-width: 479px) {
+        padding: 0;
+        border: 0;
+    }
+    .myaccount-form-inner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-top: -20px;
+        @media (max-width: 479px) {
+            flex-direction: column;
+        }
+        .single-input {
+            flex: 0 0 100%;
+            max-width: 100%;
+            margin-top: 20px;
+            &.single-input-half {
+                flex: 0 0 calc(50% - 15px);
+                max-width: calc(50% - 15px);
+                @media (max-width: 479px) {
+                    max-width: 100%;
+                }
+            }
+            label {
+                margin-bottom: 8px;
+                display: block;
+            }
+            input,
+            select,
+            textarea {
+                padding: 0 15px;
+                border: 1px solid $border-color;
+                height: 40px;
+                width: 100%;
+            }
+            input {
+                &:first-child {
+                    margin-top: 20px;
+                }
+            }
+            .checkbox-input {
+                display: inline-block;
+                label {
+                    display: inline-block;
+                }
+            }
+        }
+        a {
+            font-size: 13px;
+            &:hover {
+                color: $pronia-primary;
+            }
+        }
+    }
+}

@@ -1,0 +1,59 @@
+/*----------------------------------------*/
+/*  07. Shipping
+/*----------------------------------------*/
+.shipping {
+    &-item {
+        border: 1px dashed $pronia-primary;
+        border-radius: 5px;
+        padding: 25px 30px;
+        display: flex;
+        align-items: center;
+        @include breakpoint(max-md-device) {
+            padding: 25px;
+        }
+    }
+    &-img {
+        width: 60px;
+    }
+    &-content {
+        width: calc(100% - 60px);
+        padding-left: 20px;
+        .title {
+            color: #1f2226;
+            font-size: 20px;
+        }
+        .short-desc {
+            color: #3e3e3f;
+        }
+    }
+    &-style {
+        &-2 {
+            .shipping {
+                &-item {
+                    background-image: url('../images/shipping/shape/1.png');
+                    background-position: top;
+                    background-repeat: no-repeat;
+                    background-size: auto;
+                    flex-direction: column;
+                    align-content: center;
+                    justify-content: center;
+                    height: 240px;
+                    position: relative;
+                }
+                &-img {
+                    position: absolute;
+                    top: 30px;
+                    width: 70px;
+                }
+                &-content {
+                    background-color: $white;
+                    text-align: center;
+                    padding-top: 55px;
+                    padding-bottom: 20px;
+                    padding-left: 0;
+                    width: 100%;
+                }
+            }
+        }
+    }
+}

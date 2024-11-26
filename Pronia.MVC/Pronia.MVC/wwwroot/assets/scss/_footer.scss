@@ -1,0 +1,97 @@
+/*----------------------------------------*/
+/*  11. Footer
+/*----------------------------------------*/
+.footer {
+    &-widget {
+        &-item {
+            .social {
+                &-link {
+                    ul {
+                        li {
+                            a {
+                                border-color: #000000;
+                                color: #000000;
+                                border-radius: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        &-logo {
+            padding-bottom: 35px;
+        }
+        &-title {
+            color: #000000;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 24px;
+            margin-bottom: 30px;
+        }
+        &-desc {
+            margin-bottom: 35px;
+            line-height: 27px;
+            color: #000000;
+        }
+        &-list {
+            &-item {
+                > li {
+                    &:not(:last-child) {
+                        padding-bottom: 5px;
+                    }
+                    i {
+                        margin-right: 20px;
+                        color: #df414b;
+                    }
+                    a {
+                        color: #000000;
+                        &:hover {
+                            color: $pronia-primary;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-contact-info {
+        .footer {
+            &-widget {
+                &-title {
+                    margin-bottom: 5px;
+                }
+            }
+        }
+        .number {
+            color: #000000;
+            font-size: 24px;
+            line-height: 40px;
+            display: block;
+            margin-bottom: 10px;
+            &:hover {
+                color: $pronia-primary;
+            }
+        }
+        .address {
+            ul {
+                li {
+                    margin-bottom: 30px;
+                    color: black;
+                }
+            }
+        }
+    }
+}
+
+/* ---Copyright--- */
+.copyright {
+    border-top: 1px solid #a7cca2;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    * {
+        color: #8dba87;
+    }
+    &-text {
+        text-transform: capitalize;
+    }
+}

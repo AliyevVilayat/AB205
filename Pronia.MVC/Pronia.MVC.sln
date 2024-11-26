@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia.MVC", "Pronia.MVC\Pronia.MVC.csproj", "{90D5CD4E-50BB-4175-839C-A3320C5E8A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia.DAL", "Pronia.DAL\Pronia.DAL.csproj", "{1820BCB9-C6A9-4A83-9936-A5A59CCB8ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia.BL", "Pronia.BL\Pronia.BL.csproj", "{6B8C5D7F-5673-42E5-AAEC-24C5EFFFEA80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D5CD4E-50BB-4175-839C-A3320C5E8A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D5CD4E-50BB-4175-839C-A3320C5E8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D5CD4E-50BB-4175-839C-A3320C5E8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D5CD4E-50BB-4175-839C-A3320C5E8A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1820BCB9-C6A9-4A83-9936-A5A59CCB8ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1820BCB9-C6A9-4A83-9936-A5A59CCB8ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1820BCB9-C6A9-4A83-9936-A5A59CCB8ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1820BCB9-C6A9-4A83-9936-A5A59CCB8ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8C5D7F-5673-42E5-AAEC-24C5EFFFEA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8C5D7F-5673-42E5-AAEC-24C5EFFFEA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8C5D7F-5673-42E5-AAEC-24C5EFFFEA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8C5D7F-5673-42E5-AAEC-24C5EFFFEA80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F88C48-D588-4364-AAC6-69B0213C5B35}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,72 @@
+/*-----------------------------------------------------------------------------------
+    Template Name: Pronia - Plant Store Bootstrap 5 Template
+    Version: 1.0
+-----------------------------------------------------------------------------------
+    
+    CSS INDEX
+    ===================
+	
+    01. Template default CSS
+    02. Animation
+    03. Header
+    04. Slider
+    05. Navigation
+    06. Offcanvas
+    07. Shipping
+    08. Newsletter
+    09. Product
+    10. Banner
+    11. Footer
+    12. Blog
+    13. Testimonial
+    14. Brand
+    15. About
+    16. Shop
+    17. Sidebar
+    18. Contact
+    19. FAQ
+    20. Modal
+    21. Breadcrumb
+    22. My Account
+    23. Login Register
+    24. Cart
+    25. Compare
+    26. Wishlist
+    27. Checkout
+    28. 404
+
+-----------------------------------------------------------------------------------*/
+
+/*-- Google Font --*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@import 'mixins';
+@import 'variables';
+@import 'common';
+@import 'animation';
+@import 'header';
+@import 'slider';
+@import 'navigation';
+@import 'offcanvas';
+@import 'newsletter';
+@import 'footer';
+@import 'shipping';
+@import 'product';
+@import 'banner';
+@import 'blog';
+@import 'testimonial';
+@import 'brand';
+@import 'modal';
+@import 'about';
+@import 'breadcrumb';
+@import 'sidebar';
+@import 'shop';
+@import 'contact';
+@import 'faq';
+@import 'my-account';
+@import 'login-register';
+@import 'cart';
+@import 'wishlist';
+@import 'compare';
+@import 'checkout';
+@import '404';

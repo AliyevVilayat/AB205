@@ -1,0 +1,61 @@
+/*----------------------------------------*/
+/*  19. FAQ
+/*----------------------------------------*/
+.frequently-area {
+    h2 {
+        &.heading {
+            padding-bottom: 60px;
+            font-size: 24px;
+            line-height: 24px;
+        }
+    }
+    .frequently-item {
+        > ul {
+            > li {
+                &:not(:last-child) {
+                    margin-bottom: 20px;
+                }
+                &.has-sub,
+                &.children {
+                    border: 1px solid $border-color;
+                    padding: 20px;
+                    > a {
+                        display: flex;
+                        justify-content: space-between;
+                        font-size: 14px;
+                        line-height: 20px;
+                        font-weight: 600;
+                        cursor: pointer;
+                        font-size: 16px;
+                        color: #555252;
+                        &:hover {
+                            color: $pronia-primary;
+                        }
+                        i {
+                            font-size: 25px;
+                        }
+                    }
+                    > ul {
+                        &.frequently-body {
+                            display: none;
+                            padding-top: 20px;
+                            > li {
+                                line-height: 1.8;
+                            }
+                        }
+                    }
+                    &.open {
+                        > a {
+                            color: $pronia-primary;
+                            > i {
+                                &:before {
+                                    content: '\e682';
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

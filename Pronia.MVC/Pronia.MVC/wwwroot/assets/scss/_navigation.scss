@@ -1,0 +1,164 @@
+/*----------------------------------------*/
+/*  05. Navigation
+/*----------------------------------------*/
+/* ---Swiper Arrow--- */
+.swiper {
+    &-button-next,
+    &-button-prev {
+        background-color: $pronia-secondary;
+        color: $white;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        opacity: 0;
+        visibility: hidden;
+        transition: $baseTransition;
+        &:after {
+            font-size: 16px;
+        }
+        &:hover {
+            background-color: $pronia-primary;
+            color: $white;
+        }
+    }
+    &-arrow {
+        &:hover {
+            .swiper {
+                &-button-next,
+                &-button-prev {
+                    opacity: 1;
+                    visibility: visible;
+                }
+            }
+        }
+    }
+    &-arrow-sm-size {
+        .swiper {
+            &-button-next,
+            &-button-prev {
+                width: 30px;
+                height: 30px;
+                line-height: 30px;
+                &:after {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+    &-arrow {
+        &.with-radius {
+            .swiper {
+                &-button-next,
+                &-button-prev {
+                    color: $pronia-primary;
+                    border-radius: 100%;
+                    &:hover {
+                        background-color: $pronia-primary;
+                        border-color: $pronia-primary;
+                        color: $white;
+                    }
+                }
+            }
+        }
+    }
+}
+
+/* ---With Background--- */
+.with-bg_white {
+    .swiper {
+        &-button-next,
+        &-button-prev {
+            background-color: $white;
+            border: 0;
+            color: inherit;
+            @include breakpoint(max-sm-device) {
+                display: none;
+            }
+            &:hover {
+                background-color: $pronia-primary;
+                color: $white;
+            }
+        }
+    }
+}
+
+.thumbs {
+    &-arrow {
+        &-holder {
+            padding-left: 70px;
+            padding-right: 70px;
+            @include breakpoint(max-xxs-device) {
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+        }
+    }
+    &-button-prev,
+    &-button-next {
+        background-color: $pronia-secondary;
+        border-color: $pronia-secondary;
+        border-radius: 0;
+        text-align: center;
+        color: $white;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        transform: $baseTransition;
+        position: absolute;
+        top: 50%;
+        left: -30px;
+        transform: translateY(-50%);
+        z-index: 1;
+        opacity: 0;
+        visibility: hidden;
+        transition: $baseTransition;
+        &:hover {
+            background-color: $pronia-primary;
+            border-color: $pronia-primary;
+            color: $white;
+        }
+        &:focus {
+            outline: 0;
+        }
+        i {
+            font-size: 30px;
+            display: block;
+        }
+    }
+    &-button-next {
+        left: auto;
+        right: -30px;
+    }
+}
+
+/* ---Swiper Pagination--- */
+.swiper-pagination {
+    bottom: 20px !important;
+    &-bullet {
+        border: 1px solid transparent;
+        background-color: transparent;
+        width: 18px;
+        height: 18px;
+        opacity: 1;
+        position: relative;
+        transition: $baseTransition;
+        &:before {
+            background-color: $pronia-primary;
+            border-radius: 100%;
+            content: '';
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: calc(100% - 4px);
+            height: calc(100% - 4px);
+        }
+        &-active {
+            border-color: $pronia-primary;
+        }
+    }
+    &.without-absolute {
+        position: relative;
+        padding-top: 60px;
+        bottom: 0 !important;
+    }
+}

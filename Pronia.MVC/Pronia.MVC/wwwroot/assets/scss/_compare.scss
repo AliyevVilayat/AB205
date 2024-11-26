@@ -1,0 +1,58 @@
+/*----------------------------------------*/
+/*  25. Compare
+/*----------------------------------------*/
+.compare-table {
+    .table {
+        thead {
+            th {
+                border-width: 1px;
+                padding: 15px 10px;
+            }
+        }
+        tbody {
+            tr {
+                transition: $baseTransition;
+                &:hover {
+                    --bs-table-accent-bg: rgba(0, 0, 0, 0.02);
+                    color: var(--bs-table-hover-color);
+                }
+                td,
+                th {
+                    vertical-align: middle;
+                    text-align: center;
+                }
+                th {
+                    min-width: 200px;
+                }
+                td {
+                    min-width: 250px;
+                    .compare-pdoduct-image {
+                        max-width: 200px;
+                        display: inline-block;
+                        padding: 20px 0;
+                        a {
+                            display: inline-block;
+                            &.btn {
+                                display: block;
+                                margin-top: 30px;
+                            }
+                        }
+                    }
+                    .compare-product-name {
+                        font-size: 14px;
+                        margin-bottom: 0;
+                        a {
+                            transition-property: color;
+                        }
+                    }
+                    .rating-box {
+                        ul {
+                            display: flex;
+                            justify-content: center;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

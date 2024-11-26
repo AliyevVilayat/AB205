@@ -1,0 +1,25 @@
+/*----------------------------------------*/
+/*  28. 404
+/*----------------------------------------*/
+.error {
+    &-404 {
+        &-area {
+            &[data-bg-image]:not(.bg-pattern) {
+                background-position: bottom;
+                height: 885px;
+            }
+        }
+        &-content {
+            text-align: center;
+            .title {
+                font-style: italic;
+                color: #4e4e4e;
+                font-size: 48px;
+                margin-bottom: 65px;
+            }
+        }
+        &-img {
+            margin-bottom: 70px;
+        }
+    }
+}

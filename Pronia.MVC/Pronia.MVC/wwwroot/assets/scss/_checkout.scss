@@ -1,0 +1,347 @@
+/*----------------------------------------*/
+/*  27. Checkout
+/*----------------------------------------*/
+.coupon-accordion {
+    h3 {
+        background-color: #f1f1f1;
+        font-size: 14px;
+        font-weight: 400;
+        list-style: outside none none;
+        margin: 0 0 30px;
+        padding: 16px 32px 16px 56px;
+        position: relative;
+        width: auto;
+        text-transform: none;
+        &:before {
+            content: '\e66e';
+            display: inline-block;
+            font-family: 'Pe-icon-7-stroke';
+            left: 24px;
+            position: absolute;
+            top: 16px;
+        }
+    }
+    span {
+        cursor: pointer;
+        transition: $baseTransition;
+        text-transform: none;
+    }
+    .coupon-content {
+        border: 1px solid $border-color;
+        margin-bottom: 20px;
+        display: none;
+        padding: 20px;
+        .coupon-info {
+            p {
+                margin-bottom: 0;
+                &.form-row-first,
+                &.form-row-last {
+                    label {
+                        display: block;
+                        span {
+                            &.required {
+                                color: #ff0000;
+                            }
+                        }
+                    }
+                    input {
+                        border: 1px solid $border-color;
+                        height: 36px;
+                        margin: 0 0 14px;
+                        border-radius: 0;
+                        max-width: 100%;
+                        padding: 0 0 0 10px;
+                        width: 370px;
+                        background-color: transparent;
+                    }
+                }
+                &.form-row {
+                    input[type='submit'] {
+                        background-color: #505050;
+                        border: medium none;
+                        border-radius: 0;
+                        box-shadow: none;
+                        color: $white;
+                        cursor: pointer;
+                        display: inline-block;
+                        float: left;
+                        font-size: 12px;
+                        height: 40px;
+                        line-height: 40px;
+                        margin-right: 15px;
+                        padding: 0 30px;
+                        text-shadow: none;
+                        text-transform: uppercase;
+                        transition: $baseTransition;
+                        width: inherit;
+                    }
+                    input[type='checkbox'] {
+                        height: inherit;
+                        position: relative;
+                        top: 0;
+                        width: inherit;
+                    }
+                }
+                &.lost-password {
+                    margin-top: 15px;
+                    a {
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.coupon-checkout-content {
+    margin-bottom: 30px;
+    display: none;
+    .coupon-info {
+        .checkout-coupon {
+            margin-bottom: 0;
+            input[type='text'] {
+                background-color: transparent;
+                border: 1px solid $border-color;
+                border-radius: 0;
+                height: 36px;
+                padding-left: 10px;
+                width: 170px;
+            }
+            input[type='submit'] {
+                background: #505050;
+                border: medium none;
+                border-radius: 0;
+                color: $white;
+                height: 36px;
+                cursor: pointer;
+                margin-left: 6px;
+                padding: 5px 10px;
+                transition: $baseTransition;
+                width: inherit;
+            }
+            .coupon-inner_btn {
+                @include breakpoint(max-md-device) {
+                    margin: 28px 0 0;
+                }
+                &:hover {
+                    background-color: $pronia-primary;
+                }
+            }
+        }
+    }
+}
+
+.checkbox-form {
+    h3 {
+        border-bottom: 1px solid $border-color;
+        font-size: 25px;
+        margin: 0 0 25px;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        width: 100%;
+        @include breakpoint(max-md-device) {
+            font-size: 18px;
+        }
+    }
+    .country-select {
+        margin-bottom: 25px;
+        .myniceselect {
+            &.nice-select {
+                span {
+                    height: 40px;
+                    line-height: 40px;
+                    display: inline-block;
+                    width: 100%;
+                    padding: 0 0 0 15px;
+                }
+            }
+        }
+    }
+    .checkout-form-list {
+        margin-bottom: 30px;
+        input[type='text'],
+        input[type='password'],
+        input[type='email'] {
+            border: 1px solid $border-color;
+            background: $white;
+            border-radius: 0;
+            height: 42px;
+            width: 100%;
+            padding: 0 0 0 10px;
+        }
+        label {
+            margin-bottom: 5px;
+        }
+        &.create-acc {
+            margin-bottom: 15px;
+            label {
+                display: inline-block;
+            }
+        }
+    }
+    .country-select,
+    &.checkout-form-list {
+        label {
+            margin: 0 0 5px;
+            display: block;
+            span {
+                &.required {
+                    display: inline-block;
+                    font-size: 24px;
+                    line-height: 16px;
+                    position: relative;
+                    top: 5px;
+                }
+            }
+        }
+    }
+}
+.different-address {
+    h3 {
+        label {
+            display: inline-block;
+            margin-right: 20px;
+            font-size: 25px;
+            margin-bottom: 10px;
+            @include breakpoint(max-sm-device) {
+                font-size: 15px;
+            }
+        }
+        input {
+            height: inherit;
+            line-height: normal;
+            margin: 4px 0 0;
+            position: relative;
+            top: 0;
+            width: auto;
+        }
+    }
+}
+
+.order-notes {
+    .checkout-form-list-2 {
+        margin-bottom: 0;
+        @include breakpoint(max-md-device) {
+            margin-bottom: 30px;
+        }
+    }
+    textarea {
+        background-color: transparent;
+        border: 1px solid $border-color;
+        height: 90px;
+        padding: 15px;
+        width: 100%;
+    }
+}
+
+.create-account,
+#ship-box-info {
+    display: none;
+}
+.your-order {
+    background: #f1f1f1;
+    padding: 30px 40px 30px;
+    h3 {
+        border-bottom: 1px solid $border-color;
+        font-size: 25px;
+        padding-bottom: 10px;
+        text-transform: uppercase;
+        width: 100%;
+        @include breakpoint(max-sm-device) {
+            font-size: 18px;
+        }
+    }
+    .your-order-table {
+        table {
+            background: rgba(0, 0, 0, 0);
+            border: medium none;
+            width: 100%;
+            thead {
+                background-color: #f1f1f1;
+                tr {
+                    th {
+                        border-top: medium none;
+                        font-weight: normal;
+                        text-align: center;
+                        text-transform: uppercase;
+                        vertical-align: middle;
+                        width: 250px;
+                    }
+                    th,
+                    td {
+                        border-bottom: 1px solid $border-color;
+                        border-right: medium none;
+                        font-size: 14px;
+                        padding: 15px 0;
+                        text-align: center;
+                    }
+                }
+            }
+            .cart_item {
+                &:hover {
+                    background: #f1f1f1;
+                }
+            }
+            .order-total {
+                td {
+                    border-bottom: medium none;
+                    span {
+                        font-size: 20px;
+                    }
+                }
+                th {
+                    border-bottom: medium none;
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+}
+
+.payment-method {
+    margin-top: 20px;
+    .payment-accordion {
+        .card {
+            border: 0;
+            border-radius: 0;
+            background: #f1f1f1;
+        }
+        .card-header {
+            padding: 0;
+            margin-bottom: 0;
+            background-color: #f1f1f1;
+            border-bottom: 0;
+        }
+        .card-body {
+            padding: 0;
+        }
+        .panel.panel-default {
+            margin-bottom: 20px;
+        }
+        .panel-title {
+            font-size: 18px;
+            cursor: pointer;
+        }
+    }
+}
+
+.order-button-payment {
+    input {
+        background-color: #505050;
+        border: medium none;
+        color: $white;
+        font-size: 17px;
+        height: 50px;
+        margin: 20px 0 0;
+        padding: 0;
+        text-transform: uppercase;
+        transition: $baseTransition;
+        width: 100%;
+        border: 1px solid transparent;
+        cursor: pointer;
+        &:hover {
+            background-color: $pronia-primary;
+            color: $white;
+        }
+    }
+}

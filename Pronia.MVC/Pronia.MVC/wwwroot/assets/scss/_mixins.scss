@@ -1,0 +1,78 @@
+//--- All Mixins - Related Stuff Included In This Area ---↓
+
+@mixin placeholder {
+    &::-webkit-input-placeholder {
+        @content;
+    }
+    &:-moz-placeholder {
+        @content;
+    }
+    &::-moz-placeholder {
+        @content;
+    }
+    &:-ms-input-placeholder {
+        @content;
+    }
+}
+
+// Breakpoints
+@mixin breakpoint($point) {
+    //  Maximum Device
+    @if $point == max-xl-device {
+        @media (max-width: 1400px) {
+            @content;
+        }
+    }
+    @if $point == max-lg-device {
+        @media (max-width: 1199px) {
+            @content;
+        }
+    }
+    @if $point == max-md-device {
+        @media (max-width: 991px) {
+            @content;
+        }
+    }
+    @if $point == max-sm-device {
+        @media (max-width: 767px) {
+            @content;
+        }
+    }
+    @if $point == max-xs-device {
+        @media (max-width: 575px) {
+            @content;
+        }
+    }
+    @if $point == max-xxs-device {
+        @media (max-width: 479px) {
+            @content;
+        }
+    }
+
+    //  Minimum Device
+    @if $point == min-xxl-device {
+        @media (min-width: 1400px) {
+            @content;
+        }
+    }
+    @if $point == min-xl-device {
+        @media (min-width: 1200px) {
+            @content;
+        }
+    }
+    @if $point == min-lg-device {
+        @media (min-width: 992px) {
+            @content;
+        }
+    }
+    @if $point == min-md-device {
+        @media (min-width: 768px) {
+            @content;
+        }
+    }
+    @if $point == min-sm-device {
+        @media (min-width: 576px) {
+            @content;
+        }
+    }
+}

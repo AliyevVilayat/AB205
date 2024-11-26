@@ -1,0 +1,244 @@
+/*----------------------------------------*/
+/*  04. Slider
+/*----------------------------------------*/
+/* ---Main Slider--- */
+.slide {
+    &-inner {
+        display: flex;
+        align-items: center;
+        &.style {
+            &-1 {
+                justify-content: flex-start;
+                min-height: 730px;
+                @include breakpoint(max-md-device) {
+                    padding-top: 30px;
+                    padding-bottom: 40px;
+                    min-height: auto;
+                }
+                .inner {
+                    &-img {
+                        @include breakpoint(max-md-device) {
+                            max-width: 65%;
+                            margin: 0 auto;
+                        }
+                    }
+                }
+                .slide {
+                    &-content {
+                        @include breakpoint(max-md-device) {
+                            text-align: center;
+                            margin-top: 30px;
+                        }
+                    }
+                }
+            }
+            &-2 {
+                justify-content: flex-end;
+                @include breakpoint(max-sm-device) {
+                    flex-direction: column-reverse;
+                }
+                .slide {
+                    &-img {
+                        position: relative;
+                        width: 50%;
+                        @include breakpoint(max-sm-device) {
+                            width: 100%;
+                        }
+                    }
+                    &-content {
+                        padding-right: 85px;
+                        @include breakpoint(max-lg-device) {
+                            width: 50%;
+                            padding-left: 30px;
+                            padding-right: 30px;
+                        }
+                        @include breakpoint(max-sm-device) {
+                            text-align: center;
+                            padding-top: 25px;
+                            width: 100%;
+                        }
+                        .title {
+                            position: relative;
+                            margin-left: -8px;
+                            margin-bottom: 35px;
+                            padding-bottom: 25px;
+                            @include breakpoint(max-lg-device) {
+                                font-size: 40px;
+                                line-height: 1.2;
+                                margin-bottom: 15px;
+                                padding-bottom: 15px;
+                            }
+                            &:before {
+                                background-color: $pronia-primary;
+                                width: 100px;
+                                height: 3px;
+                                content: '';
+                                position: absolute;
+                                bottom: 0;
+                                left: 8px;
+                                @include breakpoint(max-sm-device) {
+                                    transform: translateX(-50%);
+                                    left: 50%;
+                                }
+                            }
+                        }
+                        .short-desc {
+                            @include breakpoint(max-lg-device) {
+                                margin-bottom: 25px;
+                            }
+                        }
+                        .btn-wrap {
+                            @include breakpoint(max-sm-device) {
+                                margin-bottom: 0;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-content {
+        .offer {
+            text-transform: uppercase;
+            font-weight: 300;
+            font-size: 47px;
+            line-height: 65px;
+            display: block;
+            @include breakpoint(max-md-device) {
+                font-size: 30px;
+                line-height: 1.3;
+            }
+        }
+        .title {
+            text-transform: uppercase;
+            font-weight: 400;
+            font-size: 90px;
+            line-height: 94px;
+            margin-bottom: 15px;
+            @include breakpoint(max-lg-device) {
+                font-size: 70px;
+                line-height: 1.4;
+            }
+            @include breakpoint(max-md-device) {
+                font-size: 45px;
+                margin-bottom: 0;
+            }
+        }
+        .short-desc {
+            text-transform: capitalize;
+            font-size: 22px;
+            line-height: 28px;
+            margin-bottom: 50px;
+            @include breakpoint(max-lg-device) {
+                font-size: 18px;
+            }
+            @include breakpoint(max-md-device) {
+                margin-bottom: 25px;
+            }
+        }
+        .btn {
+            &-wrap {
+                @include breakpoint(max-sm-device) {
+                    margin-bottom: 20px;
+                }
+            }
+            &-custom {
+                &-size {
+                    border-radius: 32.5px;
+                    @include breakpoint(max-md-device) {
+                        width: 145px;
+                        height: 45px;
+                        line-height: 45px;
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+    &-button {
+        &-wrap {
+            position: absolute;
+            bottom: 0;
+            left: calc(50% + 50px);
+            transform: translateX(-50%);
+            z-index: 1;
+            display: flex;
+            @include breakpoint(max-sm-device) {
+                position: relative;
+                left: auto;
+                justify-content: center;
+                transform: none;
+                display: none;
+            }
+        }
+        &-prev,
+        &-next {
+            i {
+                font-size: 48px;
+                color: $white;
+                width: 50px;
+                height: 50px;
+                line-height: 50px;
+                text-align: center;
+                display: block;
+                transition: $baseTransition;
+                &:hover {
+                    background-color: darken($pronia-primary, 10%);
+                }
+            }
+        }
+        &-prev {
+            i {
+                background-color: #303030;
+            }
+        }
+        &-next {
+            position: relative;
+            left: 2px;
+            i {
+                background-color: $pronia-primary;
+            }
+        }
+    }
+    &-pagination {
+        background-color: $white;
+        border-radius: 100%;
+        text-align: center;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        margin-left: -50px;
+        &-wrap {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1;
+        }
+    }
+    &-count {
+        position: absolute;
+        top: 50%;
+        left: -25px;
+        transform: translateY(-50%);
+        span {
+            &.data-count {
+                background-color: $white;
+                width: 75px;
+                height: 100px;
+                line-height: 1;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                border-radius: 0 50px 50px 0;
+                &:before {
+                    content: attr(data-count);
+                }
+            }
+            &.forward-slash {
+                transform: rotate(45deg);
+            }
+        }
+    }
+}

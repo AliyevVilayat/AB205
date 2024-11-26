@@ -1,0 +1,93 @@
+/*----------------------------------------*/
+/*  13. Testimonial
+/*----------------------------------------*/
+.testimonial {
+    &-area {
+        .container-fluid {
+            @include breakpoint(min-sm-device) {
+                padding-left: 30px;
+                padding-right: 30px;
+            }
+        }
+        .custom-space {
+            padding-left: 30px;
+            padding-right: 30px;
+            @include breakpoint(max-xxs-device) {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+        }
+    }
+    &-bg {
+        padding-top: 100px;
+        min-height: 440px;
+        padding-left: 30px;
+        padding-right: 30px;
+        @include breakpoint(max-xxs-device) {
+            padding-top: 75px;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+    }
+    &-slider {
+        margin: -10px;
+        padding: 10px;
+        &.with-bg {
+            margin-top: -180px;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-right: -10px;
+            margin-left: -10px;
+            @include breakpoint(max-xs-device) {
+                margin-top: -150px;
+            }
+            @include breakpoint(max-xxs-device) {
+                margin-top: -85px;
+            }
+        }
+    }
+    &-item {
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+        background-color: $white;
+        border-radius: 10px;
+        padding: 40px;
+        position: relative;
+        overflow: hidden;
+        &:hover {
+            &:before {
+                background-color: $pronia-secondary;
+            }
+        }
+        &:before {
+            content: url(../images/testimonial/icon/quotation.png);
+            border-bottom-left-radius: 100%;
+            background-color: $pronia-primary;
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 125px;
+            height: 110px;
+            line-height: 110px;
+            text-align: center;
+            padding-left: 15px;
+            transition: $baseTransition;
+        }
+        .user {
+            &-name {
+                text-transform: uppercase;
+                color: #434343;
+                font-size: 16px;
+                font-weight: 400;
+                padding-top: 25px;
+            }
+            &-occupation {
+                color: #434343;
+            }
+            &-comment {
+                color: #434343;
+                font-style: italic;
+                line-height: 32px;
+            }
+        }
+    }
+}

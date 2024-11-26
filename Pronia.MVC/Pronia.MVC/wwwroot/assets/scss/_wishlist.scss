@@ -1,0 +1,100 @@
+/*----------------------------------------*/
+/*  26. Wishlist
+/*----------------------------------------*/
+.table-content {
+    .table > :not(:last-child) > :last-child > * {
+        border-bottom-color: $border-color;
+    }
+    table {
+        border-color: $border-color;
+        border-radius: 0;
+        border-style: solid;
+        border-width: 1px 0 0 1px;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 0;
+        thead {
+            tr {
+                @include breakpoint(max-sm-device) {
+                    display: none;
+                }
+            }
+        }
+        th,
+        td {
+            border-bottom: 1px solid $border-color;
+            border-right: 1px solid $border-color;
+        }
+        th {
+            border-top: medium none;
+            font-size: 15px;
+            text-transform: capitalize;
+            padding: 20px 10px;
+            text-align: center;
+            font-weight: 500;
+            vertical-align: middle;
+        }
+        td {
+            border-top: medium none;
+            padding: 18px 10px;
+            vertical-align: middle;
+            font-size: 13px;
+            @include breakpoint(max-sm-device) {
+                width: 100%;
+                display: block;
+            }
+            &:nth-child(3) {
+                @include breakpoint(max-sm-device) {
+                    padding: 32.1px 10px;
+                    display: block;
+                    width: 100%;
+                }
+            }
+            &.product_remove {
+                font-size: 20px;
+            }
+            &.product-thumbnail {
+                img {
+                    width: auto;
+                    height: 100%;
+                }
+            }
+            &.product-name {
+                font-size: 16px;
+                text-transform: capitalize;
+            }
+            &.product-price {
+                font-size: 16px;
+            }
+            &.product-stock-status {
+                span {
+                    &.in-stock,
+                    &.out-stock {
+                        font-size: 12px;
+                        text-transform: capitalize;
+                    }
+                    &.out-stock {
+                        color: #ff0000;
+                    }
+                }
+            }
+            &.cart_btn {
+                a {
+                    font-size: 14px;
+                    text-transform: uppercase;
+                    background: #505050;
+                    color: $white;
+                    height: 40px;
+                    line-height: 43px;
+                    width: 130px;
+                    display: inline-block;
+                    transition: $baseTransition;
+                    &:hover {
+                        background: $pronia-primary;
+                        color: $white;
+                    }
+                }
+            }
+        }
+    }
+}

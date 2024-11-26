@@ -1,0 +1,294 @@
+/*----------------------------------------*/
+/*  10. Banner
+/*----------------------------------------*/
+.banner {
+    &-item {
+        position: relative;
+    }
+    &-img {
+        img {
+            width: 100%;
+        }
+        @include breakpoint(max-xxs-device) {
+            height: 250px;
+            img {
+                height: 100%;
+                object-fit: cover;
+                object-position: center;
+            }
+        }
+    }
+    &-content {
+        position: absolute;
+        width: 100%;
+        .collection {
+            color: #2d2d2d;
+            display: block;
+        }
+        .title {
+            color: #2d2d2d;
+            font-size: 36px;
+            @include breakpoint(max-lg-device) {
+                font-size: 30px;
+            }
+            @include breakpoint(max-sm-device) {
+                font-size: 25px;
+            }
+        }
+        &.text-position {
+            &-left {
+                width: calc(100% - 70px);
+                top: 50px;
+                left: 70px;
+                @include breakpoint(max-sm-device) {
+                    top: 25px;
+                    left: 30px;
+                }
+                .collection {
+                    margin-bottom: 15px;
+                    @include breakpoint(max-sm-device) {
+                        margin-bottom: 0;
+                    }
+                }
+                .title {
+                    margin-bottom: 30px;
+                    @include breakpoint(max-lg-device) {
+                        margin-bottom: 20px;
+                    }
+                    @include breakpoint(max-sm-device) {
+                        margin-bottom: 10px;
+                    }
+                }
+            }
+            &-center {
+                top: 45px;
+                left: 50%;
+                transform: translateX(-50%);
+                text-align: center;
+                .collection {
+                    margin-bottom: 5px;
+                }
+                .title {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+        .btn {
+            &-custom {
+                &-size {
+                    @include breakpoint(max-lg-device) {
+                        width: 135px;
+                        height: 42px;
+                        line-height: 42px;
+                        font-size: 14px;
+                    }
+                    @include breakpoint(max-sm-device) {
+                        width: 110px;
+                        height: 30px;
+                        line-height: 30px;
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+    &-style {
+        &-2 {
+            .banner {
+                &-content {
+                    &.text-position {
+                        &-left {
+                            top: 45px;
+                            left: 40px;
+                            @include breakpoint(max-md-device) {
+                                top: 25px;
+                                left: 30px;
+                            }
+                            .collection {
+                                margin-bottom: 5px;
+                                @include breakpoint(max-md-device) {
+                                    margin-bottom: 0;
+                                }
+                            }
+                            .title {
+                                margin-bottom: 20px;
+                                @include breakpoint(max-md-device) {
+                                    margin-bottom: 10px;
+                                    font-size: 30px;
+                                }
+                            }
+                        }
+                        &-center {
+                            top: 75px;
+                            left: 50%;
+                            transform: translateX(-50%);
+                            text-align: center;
+                            .collection {
+                                margin-bottom: 5px;
+                                font-size: 24px;
+                                @include breakpoint(max-md-device) {
+                                    margin-bottom: 0;
+                                    font-size: 20px;
+                                }
+                            }
+                            .title {
+                                margin-bottom: 25px;
+                                font-size: 48px;
+                                @include breakpoint(max-md-device) {
+                                    margin-bottom: 15px;
+                                    font-size: 30px;
+                                }
+                            }
+                        }
+                    }
+                    .btn {
+                        &-custom {
+                            &-size {
+                                @include breakpoint(max-md-device) {
+                                    width: 110px;
+                                    height: 30px;
+                                    line-height: 30px;
+                                    font-size: 13px;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-with-counter {
+        background-color: #faf8f8;
+        margin-top: 200px;
+        .banner {
+            &-boxshadow {
+                box-shadow: 0px 1px 25px 0px rgba(0, 0, 0, 0.2);
+                background-color: $white;
+                padding: 10px;
+                margin-top: -200px;
+            }
+            &-item {
+                height: 500px;
+                .popup-btn {
+                    display: flex;
+                    align-items: center;
+                    height: 100%;
+                }
+            }
+        }
+        .counter {
+            &-area {
+                padding-top: 85px;
+                padding-bottom: 100px;
+                @include breakpoint(max-lg-device) {
+                    padding-top: 65px;
+                    padding-bottom: 80px;
+                }
+                @include breakpoint(max-md-device) {
+                    padding-top: 45px;
+                    padding-bottom: 60px;
+                }
+                @include breakpoint(max-sm-device) {
+                    padding-top: 35px;
+                    padding-bottom: 50px;
+                }
+                @include breakpoint(max-xs-device) {
+                    text-align: center;
+                }
+            }
+            &-title {
+                font-style: italic;
+                font-size: 36px;
+                line-height: 57px;
+                text-align: center;
+                margin-bottom: 70px;
+                @include breakpoint(max-xs-device) {
+                    font-size: 28px;
+                    line-height: 1.6;
+                }
+                span {
+                    color: $pronia-primary;
+                }
+            }
+            &-item {
+                padding-left: 70px;
+                @include breakpoint(max-xs-device) {
+                    padding-left: 0;
+                }
+                .count {
+                    &-wrap {
+                        display: flex;
+                        align-items: center;
+                        @include breakpoint(max-xs-device) {
+                            justify-content: center;
+                        }
+                        * {
+                            color: $pronia-primary;
+                            font-size: 40px;
+                        }
+                        .prefix {
+                            line-height: 1;
+                        }
+                    }
+                    &-title {
+                        color: #3b3b3b;
+                        font-weight: 300;
+                        font-size: 30px;
+                    }
+                }
+            }
+        }
+        [class*='col-'] {
+            &:not(:last-child) {
+                .counter {
+                    &-item {
+                        @include breakpoint(min-md-device) {
+                            border-right: 1px solid #dcdcdc;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-bg {
+        &-image {
+            height: 400px;
+            .inner-content {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                padding-left: 100px;
+                height: 100%;
+                @include breakpoint(max-sm-device) {
+                    width: calc(100% - 50px);
+                    padding-left: 0;
+                    margin: 0 auto;
+                }
+                .offer {
+                    color: $pronia-primary;
+                    margin-bottom: 5px;
+                    font-size: 30px;
+                    @include breakpoint(max-sm-device) {
+                        font-size: 20px;
+                    }
+                }
+                .title {
+                    font-size: 36px;
+                    @include breakpoint(max-sm-device) {
+                        font-size: 24px;
+                    }
+                }
+                .discount {
+                    margin-bottom: 35px;
+                    font-size: 48px;
+                    @include breakpoint(max-sm-device) {
+                        font-size: 28px;
+                    }
+                    span {
+                        color: $pronia-primary;
+                    }
+                }
+            }
+        }
+    }
+}

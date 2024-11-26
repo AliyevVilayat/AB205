@@ -1,0 +1,98 @@
+/*----------------------------------------*/
+/*  23. Login Register
+/*----------------------------------------*/
+.login {
+    &-form {
+        box-shadow: 1px 1px 5px 5px rgba(0, 0, 0, 0.1);
+        background-color: $white;
+        padding: 30px;
+        label {
+            display: block;
+            font-size: 14px;
+            margin-bottom: 12px;
+            font-weight: 500;
+            text-transform: capitalize;
+        }
+        input {
+            width: 100%;
+            background-color: transparent;
+            border: 1px solid $border-color;
+            border-radius: 0;
+            line-height: 23px;
+            padding: 10px 20px;
+            font-size: 14px;
+            margin-bottom: 15px;
+        }
+        input[type='checkbox'] {
+            width: auto;
+        }
+    }
+    &-title {
+        font-size: 20px;
+        line-height: 23px;
+        text-transform: capitalize;
+        font-weight: 700;
+        margin-bottom: 0;
+        padding-bottom: 20px;
+    }
+    &-form {
+        .check-box {
+            float: left;
+            margin-right: 70px;
+            &:last-child {
+                margin-right: 0;
+            }
+            input[type='checkbox'] {
+                display: none;
+            }
+            input[type='checkbox'] + label {
+                position: relative;
+                padding-left: 30px;
+                line-height: 20px;
+                font-size: 14px;
+                font-weight: 400;
+                margin: 0;
+                &:before {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    width: 20px;
+                    height: 20px;
+                    display: block;
+                    border: 2px solid $border-color;
+                    content: '';
+                    transition: $baseTransition;
+                }
+                &:after {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    display: block;
+                    content: '\f00c';
+                    font-family: 'FontAwesome';
+                    font-weight: 600;
+                    font-size: 12px;
+                    line-height: 20px;
+                    opacity: 0;
+                    width: 20px;
+                    text-align: center;
+                    transition: $baseTransition;
+                }
+            }
+            input[type='checkbox']:checked + label {
+                &:before {
+                    border: 2px solid $border-color;
+                }
+                &:after {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}
+
+.forgotton-password_info {
+    a {
+        font-size: 14px;
+    }
+}

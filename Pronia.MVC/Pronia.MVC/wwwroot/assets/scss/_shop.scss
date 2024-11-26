@@ -1,0 +1,155 @@
+/*----------------------------------------*/
+/*  16. Shop
+/*----------------------------------------*/
+.product {
+    &-topbar {
+        padding-bottom: 50px;
+        > ul {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            @include breakpoint(max-xs-device) {
+                flex-wrap: wrap;
+            }
+            > li {
+                &:not(:last-child) {
+                    margin-right: 15px;
+                    @include breakpoint(max-xs-device) {
+                        margin-bottom: 15px;
+                    }
+                }
+            }
+            li {
+                a {
+                    color: #6c6c6c;
+                }
+                &.product-view-wrap {
+                    @include breakpoint(max-xxs-device) {
+                        margin-bottom: 0;
+                    }
+                    > ul {
+                        > li {
+                            &:not(:last-child) {
+                                margin-right: 15px;
+                            }
+                        }
+                        li {
+                            a {
+                                border: 1px solid $border-color;
+                                border-radius: 5px;
+                                padding: 10px;
+                                &.active {
+                                    color: $pronia-primary;
+                                }
+                            }
+                        }
+                    }
+                }
+                &.page-count {
+                    border: 1px solid $border-color;
+                    border-radius: 5px;
+                    padding: 10px 30px;
+                    span {
+                        color: $pronia-primary;
+                    }
+                }
+                &.short {
+                    .nice-select {
+                        border-radius: 5px;
+                        &.active,
+                        &.open,
+                        &:focus {
+                            border-color: $border-color;
+                        }
+                        .list {
+                            width: auto;
+                            left: auto;
+                            right: 0;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &-list-view {
+        .product {
+            &-item {
+                border: 1px solid $border-color;
+                padding-top: 25px;
+                padding-left: 30px;
+                padding-right: 30px;
+                padding-bottom: 30px;
+                display: flex;
+                transition: $baseTransition;
+                @include breakpoint(max-xs-device) {
+                    flex-direction: column;
+                }
+                &:hover {
+                    border-color: transparent;
+                    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+                }
+            }
+            &-img {
+                width: 25%;
+                @include breakpoint(max-xs-device) {
+                    width: 100%;
+                }
+            }
+            &-content {
+                padding-top: 0;
+                padding-bottom: 0;
+                padding-left: 15px;
+                border: 0;
+                width: 75%;
+                text-align: left;
+                align-self: center;
+                @include breakpoint(max-xs-device) {
+                    padding-left: 0;
+                    width: 100%;
+                }
+                .product-name {
+                    font-size: 20px;
+                }
+                .rating-box {
+                    padding-bottom: 10px;
+                    ul {
+                        justify-content: flex-start;
+                    }
+                }
+                .short-desc {
+                    font-size: 14px;
+                    line-height: 26px;
+                }
+            }
+            &-add-action {
+                padding-top: 20px;
+                opacity: 1;
+                visibility: visible;
+                left: 0;
+                position: inherit;
+                padding-left: 5px;
+                ul {
+                    li {
+                        &:not(:last-child) {
+                            padding-right: 10px;
+                        }
+                        a {
+                            i {
+                                border: 1px solid $border-color;
+                                border-start-start-radius: 5px;
+                                border-end-end-radius: 5px;
+                                box-shadow: none;
+                                width: 45px;
+                                height: 45px;
+                                line-height: 45px;
+                                &:hover {
+                                    border-color: $pronia-primary;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
