@@ -1,0 +1,44 @@
+﻿@model SliderItem
+
+<div class="col-lg-12 grid-margin stretch-card">
+
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Delete Slider Item</h4>
+            <p class="card-description">
+            </p>
+            <form method="post" enctype="multipart/form-data" class="forms-sample">
+                <div class="form-group">
+                    <label for="exampleInputTitle">Title</label>
+                    <input disabled asp-for="Title" type="text" class="form-control" id="exampleInputTitle" placeholder="Title">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputShortDescription">Short Description</label>
+                    <input disabled asp-for="ShortDescription" type="text" class="form-control" id="exampleInputShortDescription" placeholder="Short Description">
+                    <span class="text-danger" asp-validation-for="ShortDescription"></span>
+                </div>
+
+
+                <div class="form-group">
+                    <label for="exampleInputOffer">Offer</label>
+                    <input disabled asp-for="Offer" type="text" class="form-control" id="exampleInputOffer" placeholder="Offer">
+                    <span class="text-danger" asp-validation-for="Offer"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputImgPath">Img Path</label>
+                    <input disabled asp-for="ImgPath" type="text" class="form-control" id="exampleInputOffer" placeholder="Img Path" >
+                    <span class="text-danger" asp-validation-for="ImgPath"></span>
+                </div>
+
+
+
+                <a class="btn btn-light" asp-controller="SliderItem" asp-action="Index">Cancel</a>
+                <button type="submit" class="btn btn-danger mr-2" >Delete</button>
+            </form>
+        </div>
+    </div>
+
+</div>

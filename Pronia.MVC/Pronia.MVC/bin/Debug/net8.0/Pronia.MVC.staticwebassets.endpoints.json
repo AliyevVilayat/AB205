@@ -19600,6 +19600,88 @@
       ]
     },
     {
+      "Route": "assets/images/website-images/YatmisGozel.f7vy782lbh.jpeg",
+      "AssetFile": "assets/images/website-images/YatmisGozel.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1246372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUam6UygcW2lwTX8JzWkZ3u8Uw8cc0xoA0f9TV6arZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 13:42:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7vy782lbh"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hUam6UygcW2lwTX8JzWkZ3u8Uw8cc0xoA0f9TV6arZ8="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/website-images/YatmisGozel.jpeg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/website-images/YatmisGozel.jpeg",
+      "AssetFile": "assets/images/website-images/YatmisGozel.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1246372"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hUam6UygcW2lwTX8JzWkZ3u8Uw8cc0xoA0f9TV6arZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 27 Nov 2024 13:42:31 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hUam6UygcW2lwTX8JzWkZ3u8Uw8cc0xoA0f9TV6arZ8="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/website-images/car.i6d2t4hyna.png",
       "AssetFile": "assets/images/website-images/car.png",
       "Selectors": [],

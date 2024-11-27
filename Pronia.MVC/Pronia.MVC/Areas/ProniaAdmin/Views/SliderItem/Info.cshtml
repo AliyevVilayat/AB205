@@ -1,0 +1,100 @@
+﻿@model SliderItem
+@{
+    string disabled = string.Empty;
+    disabled = (Model.IsDeleted) ? "disabled" : string.Empty;
+}
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Slider Items Table</h4>
+                        <p class="card-description">
+                            <a class="btn btn-primary mr-2" asp-action="Index">Go Back</a>
+                            <a class="btn btn-warning mr-2" style="color:#fff;" asp-action="Update" asp-route-id="@Model.Id">Update</a>
+                            <a class="btn btn-danger mr-2 @disabled" asp-action="Delete" asp-route-id="@Model.Id">Delete</a>
+                        </p>
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            #
+                                        </th>
+                                        <th>
+                                            Image
+                                        </th>
+                                        <th>
+                                            Title
+                                        </th>
+                                        <th>
+                                            Short Descripiton
+                                        </th>
+                                        <th>
+                                            Offer
+                                        </th>
+                                        <th>
+                                            Created Date
+                                        </th>
+                                        <th>
+                                            Last Modiifed Date
+                                        </th>
+                                        <th>
+                                            Deleted Date
+                                        </th>
+                                        <th>
+                                            Is Deleted
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    <tr>
+
+                                        <td class="py-1">
+                                            @Model.Id
+                                        </td>
+                                        <td>
+                                            <img src="~/assets/images/website-images//YatmisGozel.jpeg"
+                                                 alt="Inner Image" />
+                                        </td>
+                                        <td>
+                                            @Model.Title
+                                        </td>
+                                        <td>
+                                            @Model.ShortDescription
+                                        </td>
+                                        <td>
+                                            @Model.Offer %
+                                        </td>
+                                        <td>
+                                            @Model.CreatedDate
+                                        </td>
+                                        <td>
+
+                                            @((Model.LastModifiedDate is null) ? "-" : Model.LastModifiedDate.ToString())
+
+                                        </td>
+                                        <td>
+                                            @{
+                                                string? date2 = (Model.DeletedDate is null) ? "-" : Model.DeletedDate.ToString();
+                                            }
+                                            @date2
+                                        </td>
+                                        <td>
+                                            @Model.IsDeleted
+                                        </td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

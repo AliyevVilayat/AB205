@@ -1,1171 +1,1175 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\css\\maps\\style.css.map",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\maps\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\css\\style.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\admin\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\lockscreen-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\login-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\login-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\auth\\register-bg.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\auth\\register-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face10.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face11.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face12.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face13.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face14.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face15.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face16.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face17.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face18.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face19.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face2.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face20.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face21.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face22.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face23.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face24.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face25.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face26.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face27.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face3.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face4.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face5.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face6.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face7.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face8.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\faces\\face9.jpg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\logo.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\images\\logo.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\images\\logo.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\Chart.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\Chart.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\chart.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\chart.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\chart.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\dashboard.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\dashboard.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\data-table.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\data-table.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\data-table.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\documentation.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\documentation.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\documentation.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\file-upload.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\file-upload.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\hoverable-collapse.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\jquery.cookie.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\off-canvas.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\off-canvas.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\off-canvas.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\tabs.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\tabs.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\tabs.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\template.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\js\\template.js",
       "PackagePath": "staticwebassets\\admin\\assets\\js\\template.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.css",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\base\\vendor.bundle.base.js",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\chart.js\\Chart.min.js",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
       "PackagePath": "staticwebassets\\assets\\css\\Pe-icon-7-stroke.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\animate.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\animate.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\ion.rangeSlider.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\magnific-popup.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\magnific-popup.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\nice-select.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\plugins.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\plugins.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\plugins.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\style.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\style.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\style.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\css\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\Pe-icon-7-stroke.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\Pe-icon-7-stroke.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\icon\\1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\icon\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\icon\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\icon\\2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\icon\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\icon\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-1-270x270.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-1-270x270.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-1-270x270.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-2-270x270.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-2-270x270.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-2-270x270.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-3-270x270.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-3-270x270.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-3-270x270.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-4-270x270.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\about\\team\\1-4-270x270.png",
       "PackagePath": "staticwebassets\\assets\\images\\about\\team\\1-4-270x270.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-1-770x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-1-770x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\1-1-770x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-2-370x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-2-370x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\1-2-370x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-3-370x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-3-370x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\1-3-370x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-4-770x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\1-4-770x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\1-4-770x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-1-570x500.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-1-570x500.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\2-1-570x500.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-2-570x235.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-2-570x235.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\2-2-570x235.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-3-570x235.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\2-3-570x235.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\2-3-570x235.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\3-1-1208x542.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\3-1-1208x542.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\3-1-1208x542.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\4-1-1170x400.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\banner\\4-1-1170x400.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\banner\\4-1-1170x400.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-1-120x120.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-1-120x120.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\avatar\\1-1-120x120.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-2-120x120.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-2-120x120.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\avatar\\1-2-120x120.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-3-120x120.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\avatar\\1-3-120x120.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\avatar\\1-3-120x120.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\blockquote\\quotation.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\blockquote\\quotation.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\blockquote\\quotation.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\large-size\\1-1-768x546.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\large-size\\1-1-768x546.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\large-size\\1-1-768x546.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-1-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-2-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\1-3-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-1-370x270.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\medium-size\\2-2-370x270.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-1-70x70.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-1-70x70.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-1-70x70.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-2-70x70.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-2-70x70.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-2-70x70.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-3-70x70.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\blog\\small-size\\1-3-70x70.png",
       "PackagePath": "staticwebassets\\assets\\images\\blog\\small-size\\1-3-70x70.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-1.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\1-1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\1-2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-3.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-3.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\1-3.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-4.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-4.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\1-4.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-5.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\1-5.png",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\1-5.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\bg\\1-1170x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\brand\\bg\\1-1170x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\brand\\bg\\1-1170x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\breadcrumb\\bg\\1-1-1919x388.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\contact\\1-1-370x500.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\contact\\1-1-370x500.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\contact\\1-1-370x500.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\error-404\\404.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\error-404\\404.png",
       "PackagePath": "staticwebassets\\assets\\images\\error-404\\404.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\error-404\\bg\\1-1920x886.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\error-404\\bg\\1-1920x886.png",
       "PackagePath": "staticwebassets\\assets\\images\\error-404\\bg\\1-1920x886.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\favicon.ico",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\footer\\bg\\1-1920x465.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\footer\\bg\\1-1920x465.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\logo\\dark.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\logo\\dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\logo\\dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\newsletter\\1-1920x400.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\newsletter\\1-1920x400.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\newsletter\\1-1920x400.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\offcanvas\\close-white.svg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\offcanvas\\close-white.svg",
       "PackagePath": "staticwebassets\\assets\\images\\offcanvas\\close-white.svg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\payment\\1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\payment\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\payment\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-1-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-1-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\1-1-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-2-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-2-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\1-2-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-3-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-3-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\1-3-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-4-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\large-size\\1-4-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\large-size\\1-4-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-1-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-1-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-10-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-10-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-11-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-11-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-2-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-2-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-3-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-3-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-4-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-4-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-5-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-5-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-6-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-6-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-7-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-7-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-8-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-8-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\medium-size\\1-9-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\product\\medium-size\\1-9-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-1-112x124.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-1-112x124.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-2-112x124.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-2-112x124.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\1-3-112x124.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\1-3-112x124.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-1-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-1-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\2-1-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-2-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-2-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\2-2-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-3-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\product\\small-size\\2-3-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\product\\small-size\\2-3-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shape\\1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shape\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\shape\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shape\\2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shape\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\shape\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\car.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\car.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\car.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\card.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\card.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\card.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\earphones.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\earphones.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\earphones.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\home.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\home.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\home.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\message.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\message.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\message.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\phone.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\phone.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\phone.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\plane.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\plane.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\plane.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\service.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\service.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\service.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\shield.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\shipping\\icon\\shield.png",
       "PackagePath": "staticwebassets\\assets\\images\\shipping\\icon\\shield.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\sidebar\\banner\\1-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\sidebar\\banner\\1-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\bg\\1-1.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\bg\\1-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\bg\\1-1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\bg\\2-1.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\bg\\2-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\bg\\2-1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\inner-img\\1-1-524x617.png",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\1-1-524x617.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\inner-img\\1-2-524x617.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\inner-img\\1-2-524x617.png",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\inner-img\\1-2-524x617.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-img\\2-1-960x741.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-img\\2-2-960x741.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\slider\\slide-img\\2-3-960x741.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\bg\\1-1-1820x443.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\icon\\quotation.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\icon\\quotation.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\icon\\quotation.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\3.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\testimonial\\user\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\testimonial\\user\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1--1rnu4p.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1--1rnu4p.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-120x120.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-120x120.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-1820x443.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-1820x443.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-524x617.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-524x617.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-524x617.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-768x546.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-768x546.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-768x546.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-770x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1-770x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1-770x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-10-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-10-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-10-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-11-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-11-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-11-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1170x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1170x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1170x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1920x465.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-1920x465.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-1920x465.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-120x120.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-120x120.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-370x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-370x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-370x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-524x617.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-524x617.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-2.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-270x300.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-270x300.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-270x300.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-120x120.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-120x120.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3-120x120.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-310x220.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-310x220.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3-310x220.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-370x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3-370x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-3.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-3.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-570x633.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4-570x633.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-770x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4-770x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4-770x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-4.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-4.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-5-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-5-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-5-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-5.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-5.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-5.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-6-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-6-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-7-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-7-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-8-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-8-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-8-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1-9-270x300.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1-9-270x300.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\1.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\1.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-1-370x270.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-1-370x270.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-1-370x270.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-1-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-1-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-1-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-2-370x270.webp",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-2-370x270.webp",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-2-370x270.webp"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-2-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-2-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-2-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2-3-70x78.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2-3-70x78.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\2.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\2.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\3.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\3.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\3.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\car.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\YatmisGozel.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\website-images\\YatmisGozel.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\car.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\car.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\card.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\card.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\card.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\dark.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\dark.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\dark.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\quotation.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\quotation.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\quotation.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\service.png",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\images\\website-images\\service.png",
       "PackagePath": "staticwebassets\\assets\\images\\website-images\\service.png"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\main.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\ion.rangeSlider.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.counterup.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\jquery.nice-select.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\mailchimp-ajax.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\parallax.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\tippy.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\wow.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\plugins\\wow.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\plugins\\wow.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery-3.6.0.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-3.6.0.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery-migrate-3.3.2.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery.waypoints.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\jquery.waypoints.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.waypoints.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\js\\vendor\\modernizr-3.11.2.min.js",
       "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr-3.11.2.min.js"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\php\\pronia\\pronia.php",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\php\\pronia\\pronia.php",
       "PackagePath": "staticwebassets\\assets\\php\\pronia\\pronia.php"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_404.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_404.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_404.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_about.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_about.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_animation.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_animation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_animation.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_banner.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_banner.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_banner.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_blog.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_blog.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_brand.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_brand.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_brand.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_breadcrumb.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_cart.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_cart.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_cart.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_checkout.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_checkout.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_checkout.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_common.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_common.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_compare.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_compare.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_compare.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_contact.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_contact.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_contact.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_faq.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_faq.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_faq.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_footer.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_header.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_header.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_login-register.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_login-register.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_login-register.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_mixins.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_modal.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_my-account.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_my-account.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_my-account.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_navigation.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_navigation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_navigation.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_newsletter.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_newsletter.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_newsletter.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_offcanvas.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_product.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_product.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_product.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_shipping.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_shipping.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_shipping.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_shop.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_shop.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_shop.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_sidebar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_slider.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_slider.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_slider.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_testimonial.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_testimonial.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_testimonial.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_variables.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_wishlist.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\_wishlist.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\_wishlist.scss"
     },
     {
-      "Id": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\style.scss",
+      "Id": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\wwwroot\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {

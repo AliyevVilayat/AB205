@@ -19,4 +19,5 @@ public class DashboardController : Controller
         List<SliderItem> sliderItems = await _sliderItemService.GetAllSliderItemsAsync();
         return View(sliderItems);
     }
+
 }

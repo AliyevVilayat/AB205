@@ -7599,11 +7599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\Pronia.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\Pronia.MVC.csproj",
       "projectName": "Pronia.MVC",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\Pronia.MVC.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\Pronia.MVC.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.MVC\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7621,8 +7621,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.BL\\Pronia.BL.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.BL\\Pronia.BL.csproj"
+            "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.BL\\Pronia.BL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.BL\\Pronia.BL.csproj"
             }
           }
         }
@@ -7676,5 +7676,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-preview.7.24407.12/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 7.0.3 has a known high severity vulnerability, https://github.com/advisories/GHSA-hh2w-p6rv-4g7w",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

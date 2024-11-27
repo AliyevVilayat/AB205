@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj": {}
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj": {
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj",
         "projectName": "Pronia.DAL",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.DAL\\Pronia.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Pronia.MVC\\Pronia.DAL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\Pronia.MVC\\Pronia.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

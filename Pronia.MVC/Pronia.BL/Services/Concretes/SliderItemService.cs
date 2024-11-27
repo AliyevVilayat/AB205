@@ -17,6 +17,7 @@ public class SliderItemService : ISliderItemService
     #region Read
     public async Task<SliderItem> GetSliderItemByIdAsync(int id)
     {
+
         SliderItem? sliderItem = await _context.SliderItems.FindAsync(id);
         if (sliderItem is null)
         {
@@ -24,6 +25,7 @@ public class SliderItemService : ISliderItemService
         }
 
         return sliderItem;
+
     }
 
     public async Task<List<SliderItem>> GetAllSliderItemsAsync()
