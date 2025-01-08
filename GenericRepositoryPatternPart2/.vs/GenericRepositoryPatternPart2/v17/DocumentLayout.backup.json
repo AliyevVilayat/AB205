@@ -1,0 +1,320 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E389C009-C84D-4CB3-91EA-6279CD076780}|Project.BL\\Project.BL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.bl\\services\\concretes\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E389C009-C84D-4CB3-91EA-6279CD076780}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\concretes\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\configurations\\patientconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\dalregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\dalregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\helpers\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\helpers\\configurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Migrations\\20250108144624_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Project.DAL\\Migrations\\20250108144624_Test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|solutionrelative:project.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.api\\mycustomsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|solutionrelative:project.api\\mycustomsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|solutionrelative:project.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0470E41E-4794-47A5-A6BE-B6FBE4652C5C}|Project.API\\Project.API.csproj|solutionrelative:project.api\\project.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\project.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\project.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|c:\\users\\user\\source\\repos\\genericrepositorypatternpart2\\project.dal\\migrations\\20250108144256_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288F334E-F839-4C6D-87E9-8DB2D879A1B6}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\migrations\\20250108144256_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Services\\Concretes\\PatientService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\Concretes\\PatientService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Services\\Concretes\\PatientService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\Concretes\\PatientService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:03:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:49:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:30:55.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:16:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Project.DAL\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:06:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Configurations\\PatientConfiguration.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Configurations\\PatientConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Configurations\\PatientConfiguration.cs",
+              "RelativeToolTip": "Project.DAL\\Configurations\\PatientConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:48:27.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250108144624_Test.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Migrations\\20250108144624_Test.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250108144624_Test.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Migrations\\20250108144624_Test.cs",
+              "RelativeToolTip": "Project.DAL\\Migrations\\20250108144624_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:46:25.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\appsettings.json",
+              "RelativeToolTip": "Project.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T14:46:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250108144256_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Migrations\\20250108144256_Initial.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Migrations\\20250108144256_Initial.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Migrations\\20250108144256_Initial.cs",
+              "RelativeToolTip": "Project.DAL\\Migrations\\20250108144256_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:42:56.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.API.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\Project.API.csproj",
+              "RelativeDocumentMoniker": "Project.API\\Project.API.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\Project.API.csproj",
+              "RelativeToolTip": "Project.API\\Project.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T14:38:43.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "myCustomSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\myCustomSettings.json",
+              "RelativeDocumentMoniker": "Project.API\\myCustomSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\myCustomSettings.json",
+              "RelativeToolTip": "Project.API\\myCustomSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T14:34:25.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configurations.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Helpers\\Configurations.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Helpers\\Configurations.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Helpers\\Configurations.cs",
+              "RelativeToolTip": "Project.DAL\\Helpers\\Configurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:26:51.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+              "RelativeDocumentMoniker": "Project.DAL\\Project.DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+              "RelativeToolTip": "Project.DAL\\Project.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T14:23:43.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\DALRegistration.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\DALRegistration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\DALRegistration.cs",
+              "RelativeToolTip": "Project.DAL\\DALRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:23:59.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Project.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:19:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Enums\\Gender.cs",
+              "RelativeToolTip": "Project.DAL\\Enums\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:16:16.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Project.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:09:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\Program.cs",
+              "RelativeDocumentMoniker": "Project.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.API\\Program.cs",
+              "RelativeToolTip": "Project.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:07:14.031Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

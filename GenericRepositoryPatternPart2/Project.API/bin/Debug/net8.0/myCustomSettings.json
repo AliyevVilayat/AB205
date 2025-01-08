@@ -1,0 +1,8 @@
+{
+  "MahirConnection": {
+
+    "Asus": "Server=localhost;Database=Testttt;Trusted_Connection=True;TrustServerCertificate=True;",
+    "PC": "",
+    "Code": ""
+  }
+}
