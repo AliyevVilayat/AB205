@@ -2,6 +2,22 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "AutoMapper/13.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "compile": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/AutoMapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Azure.Core/1.38.0": {
         "type": "package",
         "dependencies": {
@@ -1126,6 +1142,21 @@
     }
   },
   "libraries": {
+    "AutoMapper/13.0.1": {
+      "sha512": "/Fx1SbJ16qS7dU4i604Sle+U9VLX+WSNVJggk6MupKVkYvvBm4XqYaeFuf67diHefHKHs50uQIS2YEDFhPCakQ==",
+      "type": "package",
+      "path": "automapper/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "automapper.13.0.1.nupkg.sha512",
+        "automapper.nuspec",
+        "icon.png",
+        "lib/net6.0/AutoMapper.dll",
+        "lib/net6.0/AutoMapper.xml"
+      ]
+    },
     "Azure.Core/1.38.0": {
       "sha512": "IuEgCoVA0ef7E4pQtpC3+TkPbzaoQfa77HlfJDmfuaJUCVJmn7fT0izamZiryW5sYUFKizsftIxMkXKbgIcPMQ==",
       "type": "package",
@@ -3032,6 +3063,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "AutoMapper >= 13.0.1",
       "Project.DAL >= 1.0.0"
     ]
   },
@@ -3041,11 +3073,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
       "projectName": "Project.BL",
-      "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3063,8 +3095,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj"
+            "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj"
             }
           }
         }
@@ -3084,6 +3116,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "AutoMapper": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

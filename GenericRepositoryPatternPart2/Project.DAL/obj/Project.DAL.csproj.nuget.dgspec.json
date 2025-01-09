@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {}
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
         "projectName": "Project.DAL",
-        "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

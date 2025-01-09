@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Project.DAL.Entities;
+using Project.DAL.Entities.Common;
 
 namespace Project.DAL.Repositories.Abstractions;
 

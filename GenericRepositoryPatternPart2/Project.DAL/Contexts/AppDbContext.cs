@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Project.DAL.Configurations;
 using Project.DAL.Entities;
+using Project.DAL.Entities.Common;
 
 namespace Project.DAL.Contexts;
 
@@ -20,5 +21,24 @@ public class AppDbContext : DbContext
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(PatientConfiguration).Assembly);
 
         base.OnModelCreating(modelBuilder);
+    }
+
+    public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        var entries = ChangeTracker.Entries<AuditableEntity>();
+        foreach (var entry in entries)
+        {
+            if (entry.State == EntityState.Added)
+            {
+                entry.Entity.CreatedAt = DateTime.Now;
+            }
+            else if (entry.State == EntityState.Modified)
+            {
+                entry.Entity.UpdateAt = DateTime.Now;
+            }
+
+        }
+
+        return base.SaveChangesAsync(cancellationToken);
     }
 }

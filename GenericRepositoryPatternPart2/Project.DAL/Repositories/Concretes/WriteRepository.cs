@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Project.DAL.Contexts;
-using Project.DAL.Entities;
+using Project.DAL.Entities.Common;
 using Project.DAL.Repositories.Abstractions;
 
 namespace Project.DAL.Repositories.Concretes;
@@ -30,9 +30,9 @@ public class WriteRepository<T> : IWriteRepository<T> where T : BaseEntity, new(
     {
         Table.RemoveRange(entities);
     }
-}
 
-public async Task<int> SaveChangeAsync()
+
+    public async Task<int> SaveChangeAsync()
     {
         int rows = await _context.SaveChangesAsync();
         return rows;

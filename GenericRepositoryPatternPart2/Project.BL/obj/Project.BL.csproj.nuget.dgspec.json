@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj": {}
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj": {
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
         "projectName": "Project.BL",
-        "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\Project.BL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.BL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj"
+              "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj"
               }
             }
           }
@@ -50,6 +50,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -70,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
+    "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
         "projectName": "Project.DAL",
-        "projectPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\Project.DAL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\GenericRepositoryPatternPart2\\Project.DAL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\CodeAcademy\\AB205\\ForStudents\\GenericRepositoryPatternPart2\\Project.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

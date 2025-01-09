@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Project.DAL.Contexts;
-using Project.DAL.Entities;
+using Project.DAL.Entities.Common;
 using Project.DAL.Repositories.Abstractions;
 using System.Linq.Expressions;
 

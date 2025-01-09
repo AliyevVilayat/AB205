@@ -1,5 +1,5 @@
+using Project.BL;
 using Project.DAL;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -13,6 +13,7 @@ builder.Services.AddSwaggerGen();
 string connectionStr = builder.Configuration.GetConnectionString("Asus") ?? throw new Exception("Connection Strin not found");
 
 builder.Services.AddServices(connectionStr);
+builder.Services.AddBLServices();
 
 
 var app = builder.Build();

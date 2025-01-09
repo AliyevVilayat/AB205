@@ -1,4 +1,4 @@
-﻿using Project.DAL.Entities;
+﻿using Project.DAL.Entities.Common;
 using System.Linq.Expressions;
 
 namespace Project.DAL.Repositories.Abstractions;
